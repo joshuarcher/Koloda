@@ -25,8 +25,8 @@ private let scaleMin: CGFloat = 0.8
 public let cardSwipeActionAnimationDuration: NSTimeInterval  = 0.4
 
 //Reset animation constants
-private let cardResetAnimationSpringBounciness: CGFloat = 10.0
-private let cardResetAnimationSpringSpeed: CGFloat = 20.0
+private let cardResetAnimationSpringBounciness: CGFloat = 15.0
+private let cardResetAnimationSpringSpeed: CGFloat = 35.0
 private let cardResetAnimationKey = "resetPositionAnimation"
 private let cardResetAnimationDuration: NSTimeInterval = 0.2
 
